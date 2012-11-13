@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
                   'simple to understand.'
 
   s.platform = :ios
-
+  s.requires_arc = true
 
   s.subspec 'Core' do |core|
     core.source_files = 'src/core/src'
