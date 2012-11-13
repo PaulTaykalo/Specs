@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'Nimbus'
-  s.version  = '0.9.3'
+  s.version  = '1.0.1'
   s.license  = 'Apache License, Version 2.0'
   s.summary  = 'An iOS framework whose growth is bounded by O(documentation).'
   s.homepage = 'http://docs.nimbuskit.info/index.html'
